@@ -1,4 +1,4 @@
-// Problem: 509. Fibonacci Number
+// Problem: 509_Fibonacci Number
 // Link: https://leetcode.com/problems/fibonacci-number/
 
 // Approach:
