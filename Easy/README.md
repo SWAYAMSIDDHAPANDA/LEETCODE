@@ -10,3 +10,4 @@
 | 6 | 2108. First Palindromic String in Array | [Java](./2108_FirstPalindromeString.java) |
 | 7 | 509. Fibonacci Number | [Java](./509_FibonacciNumber.java) |
 | 8 | 35. Search Insert Position | [Java](./35_SearchInsertPosition.java) |
+| 9 | 231. Power of Two | [Java](./231_PowerOfTwo.java) |
