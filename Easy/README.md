@@ -11,3 +11,5 @@
 | 7 | 509. Fibonacci Number | [Java](./509_FibonacciNumber.java) |
 | 8 | 35. Search Insert Position | [Java](./35_SearchInsertPosition.java) |
 | 9 | 231. Power of Two | [Java](./231_PowerOfTwo.java) |
+| 10 | 507. Perfect Number | [Java](./507_PerfectNumber.java) |
+| 11 | 1. Two Sum | [Java](./1_TwoSum.java) |
