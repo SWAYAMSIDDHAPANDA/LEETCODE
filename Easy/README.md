@@ -13,3 +13,4 @@
 | 9 | 231. Power of Two | [Java](./231_PowerOfTwo.java) |
 | 10 | 507. Perfect Number | [Java](./507_PerfectNumber.java) |
 | 11 | 1. Two Sum | [Java](./1_TwoSum.java) |
+| 12 | 1952. Three Divisors | [Java](./1952_ThreeDivisors.java) |
