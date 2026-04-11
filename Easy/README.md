@@ -16,3 +16,4 @@
 | 12 | 1952. Three Divisors | [Java](./1952_ThreeDivisors.java) |
 | 13 | 1550. Three Consecutive Odds | [Java](./1550_ThreeConsecutiveOdds.java) |
 | 14 | 628. Maximum Product of Three Numbers | [Java](./628_MaximumProductOfThreeNumbers.java) |
+| 15 | 3745. Maximize Expression of Three Numbers | [Java](./3745_MaximizeExpressionOfThree.java) |
