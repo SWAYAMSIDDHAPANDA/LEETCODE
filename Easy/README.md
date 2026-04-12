@@ -17,3 +17,5 @@
 | 13 | 1550. Three Consecutive Odds | [Java](./1550_ThreeConsecutiveOdds.java) |
 | 14 | 628. Maximum Product of Three Numbers | [Java](./628_MaximumProductOfThreeNumbers.java) |
 | 15 | 3745. Maximize Expression of Three Numbers | [Java](./3745_MaximizeExpressionOfThree.java) |
+| 16 | 326. Power of Three | [Java](./326_PowerOfThree.java) |
+| 17 | 342. Power of Four | [Java](./342_PowerOfFour.java) |
